@@ -47,7 +47,7 @@ I use modern tech, built with modern tools.
 
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=H0ri69&cc=00000000&tc=ffffff&ic=A961FF&bc=A961FF" height="170" alt="stats" />
-  <img src="https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=H0ri69&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" height="170" alt="languages" />
+  <img src="https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=H0ri69&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=A961FF&border_color=A961FF" height="170" alt="languages" />
 </div>
 
 <br/>
